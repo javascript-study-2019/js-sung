@@ -9,3 +9,6 @@ Codes for JS study.
    * [2. if 문](/BOJ/02)
    * [3. for 문](/BOJ/03)
    * [4. while 문](/BOJ/04)
+   * [5. 1차원 배열](/BOJ/05)
+   * [6. 함수](/BOJ/06)
+   * [7. 문자열](/BOJ/07)
