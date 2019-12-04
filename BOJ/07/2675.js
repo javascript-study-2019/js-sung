@@ -3,7 +3,7 @@ var ans = "";
 for (var i = 1; i < s.length; ++i) {
     var line = s[i].split(' ');
     var n = parseInt(line[0]);
-    for(var j = 0; j < line[1].length; ++j) {
+    for (var j = 0; j < line[1].length; ++j) {
         ans += line[1][j].repeat(n);
     }
     ans += "\n";
